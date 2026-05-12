@@ -114,23 +114,25 @@ ESP32 • Arduino • IoT • HomeKit • Sensors • Automation Devices
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericphan04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Eric's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericphan04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ericphan04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" alt="Eric Phan GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericphan04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Eric Phan Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ericphan04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=ericphan04&theme=tokyonight&hide_border=true" alt="Eric Phan GitHub Streak" />
 </p>
+
+> If the stats images do not appear immediately, wait a few minutes and refresh with `Ctrl + F5`. GitHub sometimes caches external images.
 
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericphan04&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericphan04&theme=tokyo-night&hide_border=true&area=true" alt="Eric Phan GitHub Activity Graph" />
 </p>
 
 ---
